@@ -11,7 +11,8 @@ Whereas I've explored complex scientific concepts, building my expertise in medi
 
 During my downtime, you'll often find me immersed in designing and crafting my own stickers to share with the kids at my local church on Sundays. And when it's time to unwind, there's nothing quite like a good old-fashioned D&D session with friends.
 
-Programming Languages | Python 3, JavaScript ES6+, SQL, HTML5, CSS
-Front-End | React, ViteJS, DOM manipulation, Websockets
-Back-End | Django 4, FastAPI, PostgreSQL, MongoDB, CI/CD
-System Design | Microservices, Domain-driven design, Message passing, Event sourcing, Monolithic Systems
+
+- **Programming Languages |** Python 3, JavaScript ES6+, SQL, HTML5, CSS 
+- **Front-End |** React, ViteJS, DOM manipulation, Websockets
+- **Back-End |** Django 4, FastAPI, PostgreSQL, MongoDB, CI/CD
+- **System Design |** Microservices, Domain-driven design, Message passing, Event sourcing, Monolithic Systems

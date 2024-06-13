@@ -18,3 +18,5 @@ During my downtime, you'll often find me immersed in designing and crafting my o
 - **Front-End |** React, ViteJS, DOM manipulation, Websockets
 - **Back-End |** Django 4, FastAPI, PostgreSQL, MongoDB, CI/CD
 - **System Design |** Microservices, Domain-driven design, Message passing, Event sourcing, Monolithic Systems
+
+![Profile Image](./images/profile.jpg)
